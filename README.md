@@ -1,4 +1,4 @@
-#Twitter Trending Topics (TopK) in Storm-Trident - Use BloomFilters and CountMinSketch
+##Twitter Trending Topics (TopK) in Storm-Trident - Use BloomFilters and CountMinSketch
 
 Academic project to get hands-on experience in building applications on top of Storm-Trident.
 
